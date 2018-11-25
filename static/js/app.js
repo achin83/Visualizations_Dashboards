@@ -54,7 +54,7 @@ function buildCharts(sample) {
     var data = [trace];
     //define layout for pie chart
     var layout = {
-      title:`Bacteria Samples for Patient: ${sample}`,
+      title:`Bacteria Samples for Sample: ${sample}`,
       titlefont: {
         family: 'Helvetica',
         size: 30,
