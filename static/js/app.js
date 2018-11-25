@@ -65,7 +65,7 @@ function buildCharts(sample) {
         size: 20
       },
       height: 600,
-      width: 800
+      width: 700
     };
     //"pie" is the div ID
     Plotly.newPlot("pie", data, layout);
