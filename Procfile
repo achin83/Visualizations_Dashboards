@@ -1,1 +1,1 @@
-web: gunicorn Visualizations_Dashboards.app:app
+web: gunicorn visualizations-dashboards.app:app
